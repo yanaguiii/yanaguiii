@@ -10,19 +10,19 @@
 
 <br/>
 
-### 👋 Sobre mim
+### Sobre mim :)
 
-Engenheiro de Software Pleno na **PRODAM – Prefeitura de São Paulo**, construindo e integrando sistemas de alta escala usados por milhões de cidadãos. Trabalho principalmente com **C# / .NET** no backend e **Vue.js** no frontend, com foco em performance, sistemas legados de grande porte e IA aplicada ao fluxo de engenharia.
+Engenheiro de Software na **PRODAM – Prefeitura de São Paulo**, construindo e integrando sistemas de alta escala usados por milhões de cidadãos. Trabalho principalmente com **C# / .NET** no backend e **Vue.js** no frontend, com foco em performance, sistemas legados de grande porte e IA aplicada ao fluxo de engenharia.
 
-- 🏛️ **Agora:** modernizando a consulta e o pagamento de IPTU da cidade de São Paulo
-- ⚙️ **Interesses:** arquitetura de software, performance, DDD, TDD e Spec-Driven Development
-- 🤖 **IA no dia a dia:** skills e agents customizados de Claude Code para bases legadas
-- 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas – SENAC São Paulo
-- 🌏 **Idiomas:** Português · Inglês (C2) · Japonês (N5)
+- **Agora:** modernizando a consulta e o pagamento de IPTU da cidade de São Paulo
+- **Interesses:** arquitetura de software, performance, DDD, TDD e Spec-Driven Development
+- **IA no dia a dia:** skills e agents customizados de Claude Code para bases legadas
+- **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas – SENAC São Paulo
+- **Idiomas:** Português · Inglês (C2) · Japonês (N5)
 
 <br/>
 
-### 📈 Impacto
+### Impacto
 
 | | |
 |:--|:--|
@@ -33,7 +33,7 @@ Engenheiro de Software Pleno na **PRODAM – Prefeitura de São Paulo**, constru
 
 <br/>
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,nuxtjs,ts,js,py,java,react,tailwind&perline=10" alt="C#, .NET, Vue, Nuxt, TypeScript, JavaScript, Python, Java, React, Tailwind"/>
@@ -45,7 +45,7 @@ Engenheiro de Software Pleno na **PRODAM – Prefeitura de São Paulo**, constru
 
 <br/>
 
-### 💼 Trajetória
+### Trajetória
 
 | Período | Empresa | Cargo | Destaques |
 |:--|:--|:--|:--|
@@ -55,7 +55,7 @@ Engenheiro de Software Pleno na **PRODAM – Prefeitura de São Paulo**, constru
 
 <br/>
 
-### 🚀 Projetos em destaque
+### Projetos em destaque :D
 
 | Projeto | Descrição | Stack |
 |:--|:--|:--|
@@ -68,7 +68,7 @@ Engenheiro de Software Pleno na **PRODAM – Prefeitura de São Paulo**, constru
 
 <div align="center">
 
-📫 Aberto a conversas sobre engenharia de software, sistemas de alta escala e IA aplicada ao desenvolvimento.<br/>
+Aberto a conversas sobre engenharia de software, sistemas de alta escala e IA aplicada ao desenvolvimento :)<br/>
 **[Vamos nos conectar no LinkedIn →](https://www.linkedin.com/in/lucasyukiyanagui/)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512bd4,100:0d1117&height=110&section=footer" width="100%" alt=""/>
